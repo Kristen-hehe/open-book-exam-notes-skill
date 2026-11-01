@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open-Book Exam Notes"
+  short_description: "Turn course files into exam-ready Word notes"
+  default_prompt: "Use $open-book-exam-notes to turn my course materials into a compact open-book exam guide."
